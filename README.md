@@ -14,7 +14,7 @@
 
 ## 🌟 À Propos
 
-**Nex Production** est une équipe passionnée dédiée à la création de serveurs FiveM uniques et innovants. Nous développons des frameworks personnalisés et des ressources de haute qualité pour offrir la meilleure expérience de jeu roleplay.
+**Nex Production** Plus qu'une équipe, une famille.
 
 ### 🎯 Notre Mission
 
@@ -60,10 +60,6 @@ Vous souhaitez faire partie de l'aventure Nex Production ?
 
 ### 🎮 Pour les Joueurs
 Rejoignez notre serveur Discord pour être informé des dernières nouveautés et participer à notre communauté !
-
-### 👨‍💻 Pour les Développeurs
-Nous sommes toujours à la recherche de talents passionnés. Consultez nos opportunités sur notre Discord.
-
 ---
 
 ## 📞 Contact
